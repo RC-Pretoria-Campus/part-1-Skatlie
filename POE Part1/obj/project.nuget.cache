@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZS/43a93mvk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\POE Part1\\POE Part1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512",
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
